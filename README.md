@@ -6,7 +6,7 @@ void welcome() {
 }
 ```
 
-I am a first year student at University of Illinois at Urbana-Champaign. I current major in mathematics, and I am super interested in computer science and data science! I am learning about deep learning and programming on machine learning, software and web development. I know about C, C++, Java, Python, HTML/CSS, and JavaScript. 
+I am a second year student at University of Illinois at Urbana-Champaign. I current major in Pre-Engineering, and I am super interested in computer science and data science! I am learning about deep learning and programming on machine learning, software and web development. I know about C, C++, Java, Python, HTML/CSS, and JavaScript. 
 
 ### My GitHub Stats
 
